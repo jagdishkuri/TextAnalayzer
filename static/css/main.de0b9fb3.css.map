@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.de0b9fb3.css","mappings":"AAAA,UAIC,wBAA2B,CAF3B,iBAAkB,CADlB,eAAgB,CAEhB,YAED","sources":["Components/TextBox.css"],"sourcesContent":[".textform{\r\n margin-top: 40px; \r\n margin-left: 250px;\r\n width: 1030px; \r\n background-color: aliceblue;\r\n}\r\n"],"names":[],"sourceRoot":""}
